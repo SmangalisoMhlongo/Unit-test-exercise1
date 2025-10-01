@@ -16,4 +16,4 @@ def fizzbuzz(n):
     - Multiples of both 3 and 5 are "FizzBuzz"
     """
     # TODO: Implement the logic
-    return []uhhukh
+    return []
